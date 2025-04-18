@@ -1,0 +1,4 @@
+Die Dateien des Ordners "VFF" sind von https://github.com/st--/VFF entnommen.
+Dabei sind vgp.py und kronecker_ops angepasst, der Rest ist unverändert.
+
+Der Code im Ordner "experimente" basiert auf Grundlage von "banana_plotting.py" (siehe https://github.com/st--/VFF).

@@ -1,0 +1,25 @@
+VFF 2 0.605411
+VFF 2 sparse. d = 3, T = -9.21034 0.639233
+VFF 2 sparse. d = 9, T = 0.0 0.607666
+VFF 2 sparse. d = 27, T = 0.295129 0.607666
+VFF 2 sparse. d = 81, T = 0.510786 0.607666
+VFF 3 0.721533
+VFF 3 sparse. d = 4, T = -9.21034 0.789177
+VFF 3 sparse. d = 16, T = 0.0 0.762120
+VFF 3 sparse. d = 64, T = 0.295129 0.797069
+VFF 3 sparse. d = 256, T = 0.510786 0.797069
+VFF 4 0.783540
+VFF 4 sparse. d = 5, T = -9.21034 0.808343
+VFF 4 sparse. d = 25, T = 0.0 0.801578
+VFF 4 sparse. d = 125, T = 0.295129 0.798196
+VFF 4 sparse. d = 625, T = 0.510786 0.798196
+VFF 5 0.800451
+VFF 5 sparse. d = 6, T = -9.21034 0.822999
+VFF 5 sparse. d = 36, T = 0.0 0.809470
+VFF 5 sparse. d = 216, T = 0.295129 0.807215
+VFF 5 sparse. d = 1296, T = 0.510786 0.799324
+VFF 6 0.806088
+VFF 6 sparse. d = 7, T = -9.21034 0.830891
+VFF 6 sparse. d = 49, T = 0.0 0.809470
+VFF 6 sparse. d = 343, T = 0.295129 0.817362
+VFF 6 sparse. d = 2401, T = 0.510786 0.813980

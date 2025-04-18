@@ -1,0 +1,16 @@
+VFF 2 0.695000
+VFF 2 sparse. d = 3, T = -1 0.695000
+VFF 2 sparse. d = 3, T = 0 0.695000
+VFF 2 sparse. d = 3, T = 0.1 0.640000
+VFF 4 0.910000
+VFF 4 sparse. d = 5, T = -1 0.905000
+VFF 4 sparse. d = 5, T = 0 0.872500
+VFF 4 sparse. d = 5, T = 0.1 0.710000
+VFF 8 0.937500
+VFF 8 sparse. d = 9, T = -1 0.932500
+VFF 8 sparse. d = 9, T = 0 0.917500
+VFF 8 sparse. d = 9, T = 0.1 0.912500
+VFF 16 0.940000
+VFF 16 sparse. d = 17, T = -1 0.942500
+VFF 16 sparse. d = 17, T = 0 0.935000
+VFF 16 sparse. d = 17, T = 0.1 0.935000
